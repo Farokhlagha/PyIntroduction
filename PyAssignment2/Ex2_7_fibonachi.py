@@ -19,7 +19,7 @@ elif number > 2:
         Fibonacci[i] = Fibonacci[i - 1] + Fibonacci[i - 2]
         print(Fibonacci[i], end= ", ")
 
-elif number<=0:
+elif number <=0:
     print("Invalid input")
 
 
