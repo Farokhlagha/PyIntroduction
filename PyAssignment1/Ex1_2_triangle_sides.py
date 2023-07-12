@@ -1,3 +1,6 @@
+#A program that receives the size of three sides of a triangle
+# and determines whether it is possible to draw such a triangle or not.
+
 import math
 
 print("*** Welcome to FarokhLagha validation of the size of triangle sides ***")

@@ -1,3 +1,6 @@
+#Calculation of the GPA and
+# the student's academic status
+
 print("*** Welcome to Farokhlagha Calculation of educational status programme ***")
 
 name = input("enter your name: ")

@@ -1,3 +1,5 @@
+#Body Mass Index program
+
 print("*** Welcome to Farokhlagha Calculation Body Mass Index (BMI) ***")
 
 weight = float(input("enter your weight(Kg): "))
