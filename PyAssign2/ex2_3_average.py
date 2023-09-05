@@ -1,6 +1,6 @@
-#A program that receives the student's score
+# A program that receives the student's score
 # until the user enters the exit command 
-#and finally prints the student's score point average.
+# and finally prints the student's score point average.
 
 print("Welcome User")
 

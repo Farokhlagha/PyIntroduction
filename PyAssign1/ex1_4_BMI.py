@@ -1,4 +1,4 @@
-#Body Mass Index program
+# Body Mass Index program
 
 print("*** Welcome to Farokhlagha Calculation Body Mass Index (BMI) ***")
 

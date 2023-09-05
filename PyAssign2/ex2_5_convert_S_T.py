@@ -1,4 +1,4 @@
-#Convert seconds to time
+# Convert seconds to time
 
 sec=int(input("please enter seconds: "))
 

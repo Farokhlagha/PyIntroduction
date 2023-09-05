@@ -1,4 +1,4 @@
-#Convert time to seconds
+# Convert time to seconds
 
 hour = int(input("enter hour: "))
 minute = int(input("entre minute:"))

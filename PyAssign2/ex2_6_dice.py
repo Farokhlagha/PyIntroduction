@@ -1,4 +1,4 @@
-#Simulate throwing the dice. Until the number 6 comes.
+# Simulate throwing the dice. Until the number 6 comes.
 # As a bonus, the dice are rolled again
 
 import random
