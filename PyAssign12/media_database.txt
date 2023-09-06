@@ -1,0 +1,48 @@
+S,The Big Bang Theory,Mark Sandrosky,8.1,20,279,12,2007,2019,True
+United States
+sitcom
+https://www.youtube.com/watch?v=lVFNRrL79w0
+Johnny,Galecki,1975,male
+Kaley,Christine Cuoco,1985,female
+Simon,Maxwell Helberg,1980,male
+Kunal,Nayyar,1981,female
+Sara,Gilbert,1975,male
+Melissa,Rauch,1980,female
+Jim,Parsons,1973,male
+Kevin,Sussman,1970,male
+@
+F,Interstellar,christopher nolan,8.6,169,2014
+United Kingdom,United States
+drama,science fiction,adventure,thriller
+https://www.youtube.com/watch?v=lVFNRrL79w0
+Matthew,McConaughey,1975,male
+Anne,Jacqueline Hathaway,1985,male
+Jessica,Michelle Chastain,1980,female
+Bill,Irwin,1981,male
+Ellen,Burstyn,1973,female
+Sir,Michael Caine,1970,male
+@
+S,Rick and Morty,Justin Roiland,9.1,23,62,6,2013,-,False
+United States
+animation,science fiction,comedy,adventure
+https://www.youtube.com/watch?v=lVFNRrL79w0
+justin,roiland,1980,male
+chris,parnell,2002,female
+Spencer,Grammer,1980,male
+Sarah,Chalke,1979,male
+kari,wahlgren,1990,female
+Dan,Harmon,1991,female
+Maurice,LaMarche,1986,male
+@
+C,sdv,sdv,5.6,165,4568
+jh,safa,asas
+jh,safa,asas
+
+uytsd, dsa,4513,male
+@
+D,fgfh,dfgfdg,5.3,5162,1231
+gdfgdf ,fdg,df,gfd
+gdfgdf ,fdg,df,gfd
+gfdgdfg
+sdfsdf,sdfsd,1235,bisexual
+@
