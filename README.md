@@ -111,7 +111,7 @@ element is equal to the sum of the top value and the left top value.
 
 ## PyAssign12
 
-1. Mini Project 1: Software design for video media management
+1. Mini Project 1: Software design for video media management The Big Bang Theory,Mark Sandrosky,8.1,20,279,12,2007,2019
 
 
 
