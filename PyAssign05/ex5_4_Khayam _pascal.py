@@ -33,6 +33,7 @@ def khayyam_pascal_triangle(rows):
         triangle.append(row)
     
     return triangle
+khayyam_pascal_triangle(8)
 
 def print_khayyam_pascal_triangle(triangle):
     max_width = len(' '.join(map(str, triangle[-1])))  # Calculate the maximum width for formatting
