@@ -1,3 +1,5 @@
+# Write a program for time calculations (with Object Oriented Programming):
+
 class Fraction:
     def __init__(self, ss, mm):
         self.s = ss

@@ -1,3 +1,5 @@
+# Write a program for complex number calculations (with Object Oriented Programming):
+
 class Complex:
     def __init__(self, real, image):
         self.real = real

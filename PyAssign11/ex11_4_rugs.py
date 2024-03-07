@@ -1,3 +1,6 @@
+# Write a function that receives the number n as a parameter. 
+# If n is odd, produce and return a rug with dimensions n*n. 
+# If n is even, the appropriate message will be returned.
 # Creat Concentric Rugs 
 # num: rugs'dimensions, have to odd number (1,3,5,...)
 # type: 'emoji' for default, number for another values

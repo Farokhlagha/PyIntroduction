@@ -1,3 +1,5 @@
+# Write a class for time using object orientation.
+
 class My_time:
     def __init__(self):
         self.my_time = [0, 0, 0]

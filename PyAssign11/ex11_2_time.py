@@ -1,3 +1,5 @@
+# Complete the fractions program (with Object Oriented Programming):
+
 class Time:
     def __init__(self, hour, minute, second):
         self.hour = hour

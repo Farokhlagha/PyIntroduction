@@ -1,3 +1,5 @@
+# Write a class for fractions using object orientation.
+
 class Fractions:
     def __init__(self):
         self.numerator = 1
