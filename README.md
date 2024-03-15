@@ -13,7 +13,7 @@ Description of assignments.
 4. Calculation of BMI index
 
 
-## PPyIntr02
+## PyIntr02
 
 1. Guess number game.
 
