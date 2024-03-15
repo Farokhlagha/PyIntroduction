@@ -1,8 +1,8 @@
-# PyAssignment
+# PyIntroduction
 
 Description of assignments. 
 
-## PyAssign1
+## PyIntr01
 
 1. Calculator and BMI index
 
@@ -13,7 +13,7 @@ Description of assignments.
 4. Calculation of BMI index
 
 
-## PyAssign2
+## PPyIntr02
 
 1. Guess number game.
 
@@ -30,7 +30,7 @@ Description of assignments.
 7. Writing Fibo Tanchi sequence.
 
 
-## PyAssign3
+## PyIntr03
 
 1. HangMan Game.
 
@@ -46,7 +46,7 @@ Description of assignments.
 
 7. Calculate the number of words in a sentence.
 
-## PyAssign4
+## PyIntr04
 
 1. QRcode.
 
@@ -58,7 +58,7 @@ Description of assignments.
 
 5. Undouplicated list(set).
 
- ## PyAssign5
+ ## PyIntr05
 
 1. Prints a checkerboard with dimensions n*m.
 
@@ -69,7 +69,7 @@ Description of assignments.
 4. Khayyam Pascal's triangle is a sequence of numbers in which the value of each 
 element is equal to the sum of the top value and the left top value.
 
-## PyAssign6
+## PyIntr06
 
 1. TicTacToe Game.
 
@@ -77,21 +77,23 @@ element is equal to the sum of the top value and the left top value.
 
 3. Cubic equation
 
-## PyAssign7
+## PyIntr08
 
 1. Create Store
 
-## PyAssign8
+## PyIntr08
 
 1. Make a gif with imageio library
 
 2. Translate program
 
-## PyAssign9
+## PyIntr09
 
 1. Telegram bot
 
-## PyAssign10
+# Object Oriented Programming (OOP)
+A computer programming model that organizes software design around data, or objects, rather than functions and logic. 
+## PyIntr10
 
 1. Object Oriented Programming, Introduce Class fraction
 
@@ -99,7 +101,7 @@ element is equal to the sum of the top value and the left top value.
 
 3. Introduce Class datetime
 
-## Pyassign11
+## PyIntr11
 
 1. Object Oriented Programming, fraction class
 
@@ -109,9 +111,10 @@ element is equal to the sum of the top value and the left top value.
 
 4. Creat Concentric Rugs 
 
-## PyAssign12
+## PyIntr12_Mini Project
 
-1. Mini Project 1: Software design for video media management The Big Bang Theory,Mark Sandrosky,8.1,20,279,12,2007,2019
+1. Mini Project 1: Design software for video media management.
+
 
 
 
